@@ -47,6 +47,22 @@
          "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtROqhZxH79oCPvuuSoC3OLSMZ-cdMQX-h5CN3BKL1G1wW6YNWw",
         "name": "Imagine",
           "price": 40
+      },
+        {
+        "id": 3,
+        "title": "Forever Aloe Vera Gel",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4sVOFuSuYxY6XjDao2n5xf_kCKNP1ZErWO3cxRDDlwRq-Ufv",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtROqhZxH79oCPvuuSoC3OLSMZ-cdMQX-h5CN3BKL1G1wW6YNWw",
+        "name": "Imagine slicing open ",
+        "price": 25
+      }, 
+      {
+        "id": 4,
+        "title": "Forever berry nectar",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQi_I3BTk9vs7ICu0SImRB2gdm3irBQWuOtO0imGrVNLjABjer",
+         "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHtROqhZxH79oCPvuuSoC3OLSMZ-cdMQX-h5CN3BKL1G1wW6YNWw",
+        "name": "Imagine",
+          "price": 40
       }
     ]
 }
